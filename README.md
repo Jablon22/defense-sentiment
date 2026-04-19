@@ -178,6 +178,6 @@ pip install -r requirements.txt
 
 ## Author
 
-**Jakub Jabłoński**  
+**Jakub Groblicki**  
 AGH University of Science and Technology · Computer Science & Econometrics  
 [GitHub](https://github.com/Jablon22) · [LinkedIn](#)
